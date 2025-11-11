@@ -12,7 +12,7 @@
     "react-scripts": "5.0.1",
     "web-vitals": "^2.1.4"    
   },
-  "homepage": "https://username.github.io/my-website",
+  "homepage": "https://semohsen.github.io/my-website",
   "scripts": {
     "start": "react-scripts start",
     "build": "react-scripts build",
